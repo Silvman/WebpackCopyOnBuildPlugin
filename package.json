@@ -1,6 +1,6 @@
 {
   "name": "webpack-copy-output-on-build-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Webpack will copy all output files to given destination",
   "main": "index.js",
   "files": ["index.js"],
